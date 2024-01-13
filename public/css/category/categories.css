@@ -1,0 +1,12 @@
+.categories_list{
+    width: 100%;
+}
+
+.category{
+    width: 100%;
+    padding: 10px 25px 30px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+
+    margin-bottom: 20px;
+}
